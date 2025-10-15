@@ -1,19 +1,18 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-        map<int,int> mpp;
-        vector<int> v;
-
+        vector<int> v(100,0);
         for(auto i : nums){
-            mpp[i]++;
+            v[i]++;
         }
-        for(auto it : mpp){
-            if(it.second>1){
-                v.push_back(it.first);
+        vector<int> a;
+        for(int i=0;i<v.size();i++){
+            if(v[i]==2){
+                a.push_back(i);
             }
+
         }
-        return v;
-
-
+        return a;
+        
     }
 };
