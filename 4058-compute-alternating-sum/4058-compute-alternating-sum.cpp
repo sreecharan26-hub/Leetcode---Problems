@@ -2,14 +2,16 @@ class Solution {
 public:
     int alternatingSum(vector<int>& nums) {
         int n = nums.size();
-        int sum =0;
-        for(int i=0;i<n;i++){
-            if (i%2==0){
-                sum+=nums[i];
+        int sum = 0;
+        int i = 0;
+        int j = 1;
+        while(i<n){
+            sum+=nums[i];
+            if(j<n){
+                sum-=nums[j];
             }
-            else{
-                sum-=nums[i];
-            }
+            i+=2;
+            j+=2;
         }
         return sum;
         
