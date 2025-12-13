@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0283-move-zeroes) |
