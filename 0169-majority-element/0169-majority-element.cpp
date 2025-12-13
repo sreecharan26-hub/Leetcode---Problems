@@ -5,10 +5,13 @@ public:
         map<int, int> mpp;
         for (auto i : nums) {
             mpp[i]++;
-            if (mpp[i] > n / 2) {
-                return i;
+        }
+        for(auto it : mpp){
+            if(it.second>n/2){
+                return it.first;
             }
         }
-        return -1;
+            return -1;
+        
     }
 };
