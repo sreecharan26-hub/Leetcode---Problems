@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
