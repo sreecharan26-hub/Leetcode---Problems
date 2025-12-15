@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0074-search-a-2d-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
