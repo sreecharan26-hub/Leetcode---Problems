@@ -2,11 +2,35 @@ class Solution {
 public:
     bool search(vector<int>& nums, int target) {
         int n =nums.size();
-        for(int i=0;i<n;i++){
-            if(nums[i]==target){
-                return 1;
+        int low = 0,high = n-1;
+        while(low<=high){
+            int mid = (low+high)/2;
+            if(nums[mid]==target){
+                return true;
+            }
+            if(nums[low] == nums[mid] and nums[mid]==nums[high]){
+                low+=1;
+                high-=1;
+                continue;
+            }
+            // left sorted
+            if(nums[low]<=nums[mid]){
+                if(nums[low]<=target and target<nums[mid]){
+                    high = mid-1;
+                }
+                else{
+                    low = mid +1;
+                }
+            }
+            else{
+                if(nums[mid]<target and target<=nums[high]){
+                    low = mid +1;
+                }
+                else{
+                    high = mid -1;
+                }
             }
         }
-        return 0;
+        return false;
     }
 };
