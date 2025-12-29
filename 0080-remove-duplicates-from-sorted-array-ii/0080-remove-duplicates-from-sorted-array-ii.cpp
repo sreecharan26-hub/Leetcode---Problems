@@ -11,7 +11,8 @@ public:
         for (auto it : mpp) {
             int times = min(2, it.second);
             while (times--) {
-                nums[cnt++] = it.first;
+                nums[cnt] = it.first;
+                cnt++;
             }
         }
         return cnt;
