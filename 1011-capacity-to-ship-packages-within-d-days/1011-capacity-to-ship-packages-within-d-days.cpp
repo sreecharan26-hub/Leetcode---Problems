@@ -7,7 +7,7 @@ public:
         for (auto i : weights) {
             b += i;
         }
-        int ans = b;
+        
         while (a <= b){
             int mid = (a+b)/2;
             int day = 1, load = 0;
@@ -20,13 +20,13 @@ public:
                 }
             }
             if (day <= days){
-                ans = mid;
+                
                 b = mid - 1;
             }
             else{
                 a = mid +1;
             }
         }
-        return ans; 
+        return a; 
     }
 };
