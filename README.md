@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0054-spiral-matrix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0229-majority-element-ii) |
