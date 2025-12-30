@@ -2,23 +2,17 @@ class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(),nums.end());
+        map<int, int> mpp;
+        for (auto i : nums) {
+            mpp[i]++;
+        }
         vector<int> v;
-        int ans = 1;
-        for(int i=0;i<n;i++){
-            if(nums[i]==ans){
-                ans++;
-            }
-            else if(nums[i]>ans){
-               v.push_back(ans);
-               ans++;
-               i--; 
+        for (int i = 1; i <= n; i++) {
+            if (mpp.find(i) == mpp.end()) {
+                v.push_back(i);
             }
         }
-        while(ans <= n){
-            v.push_back(ans);
-            ans++;
-        }
+
         return v;
     }
 };
