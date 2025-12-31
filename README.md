@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -219,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
