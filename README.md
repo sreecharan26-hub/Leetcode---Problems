@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
