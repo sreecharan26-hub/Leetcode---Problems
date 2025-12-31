@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -222,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
