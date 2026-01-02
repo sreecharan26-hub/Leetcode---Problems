@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         set<int>s;
         for(auto i : nums){
-            if(s.count(i)==1){
+            if(s.count(i)){
                 return i;
             }
             s.insert(i);
