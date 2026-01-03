@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
