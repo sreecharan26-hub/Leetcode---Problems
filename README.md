@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0485-max-consecutive-ones) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0704-binary-search) |
