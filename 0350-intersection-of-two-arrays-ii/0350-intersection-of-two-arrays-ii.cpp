@@ -1,14 +1,15 @@
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> v;
-        for(int i=0;i<nums1.size();i++){
-            for(int j=0;j<nums2.size();j++){
-                if(nums1[i]==nums2[j]){
-                    v.push_back(nums1[i]);
-                    nums2.erase(nums2.begin()+j);
-                    break;
-                }
+        map<int,int>mpp;
+        vector<int>v;
+        for(auto i : nums1){
+            mpp[i]++;
+        }
+        for(auto j : nums2){
+            if(mpp[j]>0){
+                v.push_back(j);
+                mpp[j]--;
             }
         }
         return v;
