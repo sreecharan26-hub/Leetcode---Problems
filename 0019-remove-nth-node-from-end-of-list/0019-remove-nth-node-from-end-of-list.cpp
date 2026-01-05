@@ -42,7 +42,7 @@ public:
             prev = temp;
             temp = after;
         }
-        head = prev;
-        return head;
+        
+        return prev;
     }
 };
