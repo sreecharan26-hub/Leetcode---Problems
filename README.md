@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1539-kth-missing-positive-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
