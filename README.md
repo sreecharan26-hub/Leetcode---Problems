@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3194-find-words-containing-character](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3194-find-words-containing-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
