@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
