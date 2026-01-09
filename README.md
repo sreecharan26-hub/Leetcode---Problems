@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/4058-compute-alternating-sum) |
 ## String
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/4058-compute-alternating-sum) |
 ## Sorting
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
