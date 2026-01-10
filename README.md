@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0875-koko-eating-bananas) |
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0724-find-pivot-index) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
