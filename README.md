@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0054-spiral-matrix) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
