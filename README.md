@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
