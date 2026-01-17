@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1390-four-divisors) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2396-strictly-palindromic-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2396-strictly-palindromic-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
