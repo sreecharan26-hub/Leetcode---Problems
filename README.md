@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2733-neither-minimum-nor-maximum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3194-find-words-containing-character) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2733-neither-minimum-nor-maximum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Math
 |  |
 | ------- |
