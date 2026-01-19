@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0018-4sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
