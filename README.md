@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
