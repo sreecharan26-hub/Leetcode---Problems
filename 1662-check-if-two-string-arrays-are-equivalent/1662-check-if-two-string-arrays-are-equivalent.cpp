@@ -12,8 +12,8 @@ public:
             b+=word2[i];
         }
         if(a==b){
-            return true;
+            return 1;
         }
-        return false;
+        return 0;
     }
 };
