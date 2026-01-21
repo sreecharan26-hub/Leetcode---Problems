@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0876-middle-of-the-linked-list) |
