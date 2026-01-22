@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0875-koko-eating-bananas) |
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
+| [0860-lemonade-change](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0860-lemonade-change) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
