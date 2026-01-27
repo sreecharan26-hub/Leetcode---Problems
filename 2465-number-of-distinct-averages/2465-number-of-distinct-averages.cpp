@@ -1,19 +1,15 @@
 class Solution {
 public:
     int distinctAverages(vector<int>& nums) {
-        vector<double>v;
-        
         sort(nums.begin(),nums.end());
-        while(nums.size()>1){
-            double avg=(nums.front()+nums.back())/2.0;
-            v.push_back(avg);
-            nums.erase(nums.begin());
-            nums.pop_back();
+        int n = nums.size();
+        set<double>st;
+        int i=0,j=n-1;
+        while(i<j){
+            st.insert(nums[i]+nums[j]);
+            i++;
+            j--;
         }
-        map<double,int>mpp;
-        for(auto i:v){
-            mpp[i]++;
-        }
-        return mpp.size();
+        return st.size();
     }
 };
