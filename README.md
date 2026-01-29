@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1816-truncate-sentence) |
+| [1829-maximum-xor-for-each-query](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1829-maximum-xor-for-each-query](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
