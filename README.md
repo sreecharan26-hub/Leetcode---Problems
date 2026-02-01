@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3151-special-array-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2465-number-of-distinct-averages) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3731-find-missing-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Geometry
 |  |
 | ------- |
