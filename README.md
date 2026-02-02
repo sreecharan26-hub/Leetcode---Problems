@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1539-kth-missing-positive-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
 | ------- |
