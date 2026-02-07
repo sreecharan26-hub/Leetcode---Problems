@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1390-four-divisors) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2396-strictly-palindromic-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
