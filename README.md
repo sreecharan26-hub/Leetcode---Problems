@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
+| [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
+| [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
