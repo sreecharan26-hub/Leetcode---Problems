@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
