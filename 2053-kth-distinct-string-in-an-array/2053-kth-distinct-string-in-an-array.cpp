@@ -5,10 +5,12 @@ public:
         vector<string> v;
         for(int i=0;i<n;i++){
             int cnt =0;
-            for(int j=0;j<n;j++){
+            int j =0;
+            while(j<n){
                 if(arr[i]==arr[j]){
                     cnt++;
                 }
+                j++;
             }
             if(cnt==1){
                 v.push_back(arr[i]);
