@@ -1,20 +1,14 @@
 class Solution {
 public:
     int sumDivisibleByK(vector<int>& nums, int k) {
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        int ans =0;
-        for(int i=0;i<n;i++){
-            int cnt=0;
-            int j=0;
-            while(j<n){
-                if(nums[i]==nums[j]){
-                    cnt++;
-                }
-                j++;
-            }
-            if(cnt%k==0){
-                ans+=nums[i];
+        unordered_map<int,int>mpp;
+        for(auto i : nums){
+            mpp[i]++;
+        }
+        int ans = 0;
+        for(auto i : mpp){
+            if(i.second%k==0){
+                ans+=i.first*i.second;
             }
         }
         return ans;
