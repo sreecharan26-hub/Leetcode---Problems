@@ -3,19 +3,16 @@ public:
     int longestBalanced(vector<int>& nums) {
         int maxlen = 0;
         for(int i=0;i<nums.size();i++){
-            unordered_map<int,int>even;
-            unordered_map<int,int>odd;
+            unordered_set<int>even;
+            unordered_set<int>odd;
             for(int j=i;j<nums.size();j++){
                 if(nums[j]%2==0){
-                    even[nums[j]]=true;
+                    even.insert(nums[j]);
                 }
                 else{
-                    odd[nums[j]]=true;
+                    odd.insert(nums[j]);
                 }
-                int evencnt = even.size();
-                int oddcnt = odd.size();
-
-                if(evencnt == oddcnt){
+                if(even.size() == odd.size()){
                     maxlen = max(maxlen,j-i+1);
                 }
             }
