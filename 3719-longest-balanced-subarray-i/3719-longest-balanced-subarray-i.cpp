@@ -7,10 +7,10 @@ public:
             unordered_map<int,int>odd;
             for(int j=i;j<nums.size();j++){
                 if(nums[j]%2==0){
-                    even[nums[j]]=1;
+                    even[nums[j]]=true;
                 }
                 else{
-                    odd[nums[j]]=1;
+                    odd[nums[j]]=true;
                 }
                 int evencnt = even.size();
                 int oddcnt = odd.size();
