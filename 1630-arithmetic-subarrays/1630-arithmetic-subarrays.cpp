@@ -9,10 +9,10 @@ public:
                 v.push_back(nums[j]);
             }
             sort(v.begin(),v.end());
-            if(v.size()<=2){
-                ans.push_back(1);
-                continue;
-            }
+            // if(v.size()<=2){
+            //     ans.push_back(1);
+            //     continue;
+            // }
             int diff = v[1]-v[0];
             int k;
             for(k=2;k<v.size();k++){
