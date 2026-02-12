@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0413-arithmetic-slices) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
 |  |
