@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2465-number-of-distinct-averages) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1630-arithmetic-subarrays) |
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2404-most-frequent-even-element) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Geometry
