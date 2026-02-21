@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
