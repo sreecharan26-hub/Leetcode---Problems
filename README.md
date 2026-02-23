@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1630-arithmetic-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1630-arithmetic-subarrays) |
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1829-maximum-xor-for-each-query) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -611,4 +614,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0292-nim-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
