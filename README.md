@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0367-valid-perfect-square) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2396-strictly-palindromic-number) |
 ## Combinatorics
 |  |
@@ -605,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0232-implement-queue-using-stacks) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
