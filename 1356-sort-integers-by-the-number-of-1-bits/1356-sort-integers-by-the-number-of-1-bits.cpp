@@ -15,8 +15,8 @@ public:
         }
         sort(v.begin(),v.end());
         vector<int>a;
-        for(int i=0;i<v.size();i++){
-            a.push_back(v[i].second);
+        for(auto i : v){
+            a.push_back(i.second);
         }
         return a;
     }
