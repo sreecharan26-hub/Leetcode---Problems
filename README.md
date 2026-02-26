@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Backtracking
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 ## Brainteaser
 |  |
 | ------- |
