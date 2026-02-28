@@ -11,7 +11,7 @@ public:
                 while(!v.empty() and v.back()>0 and v.back()<abs(nums[i])){
                     v.pop_back();
                 }
-                    if(!v.empty()  and v.back()==abs(nums[i])){
+                    if(!v.empty()  and v.back()>0 and  v.back()==abs(nums[i])){
                         v.pop_back();
                     }
                     else if(v.empty() or v.back()<0){
