@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0860-lemonade-change) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0735-asteroid-collision) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
