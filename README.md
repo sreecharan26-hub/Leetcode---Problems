@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2215-find-the-difference-of-two-arrays) |
