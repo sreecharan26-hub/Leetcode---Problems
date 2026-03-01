@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1995-count-special-quadruplets) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Brainteaser
 |  |
