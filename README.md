@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2661-first-completely-painted-row-or-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2661-first-completely-painted-row-or-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2661-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2404-most-frequent-even-element) |
 | [2465-number-of-distinct-averages](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2465-number-of-distinct-averages) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2661-first-completely-painted-row-or-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2661-first-completely-painted-row-or-column) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
