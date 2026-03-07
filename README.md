@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Brainteaser
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -710,4 +713,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
