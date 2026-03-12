@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int atMost(vector<int>& nums, int goal){
-        if(goal<0){
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+         if(goal<0){
             return 0;
         }
         int n = nums.size();
@@ -16,10 +16,17 @@ public:
             }
             cnt+=r-l+1;
         }
-        return cnt;
-    }
-
-    int numSubarraysWithSum(vector<int>& nums, int goal){
-        return atMost(nums,goal) - atMost(nums,goal-1);
+        l=0;
+        int cnt1=0;
+        sum=0;
+        for(int r=0;r<n;r++){
+            sum+=nums[r];
+            while(l<=r and sum>goal-1){
+                sum-=nums[l];
+                l++;
+            }
+            cnt1+=r-l+1;
+        }
+        return cnt-cnt1;
     }
 };
