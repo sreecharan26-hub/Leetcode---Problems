@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0958-sort-array-by-parity-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0413-arithmetic-slices) |
+| [0877-stone-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1013-fibonacci-number) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Recursion
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0877-stone-game) |
 ## Rolling Hash
 |  |
 | ------- |
