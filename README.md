@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1710-maximum-units-on-a-truck](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1720-decode-xored-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1816-truncate-sentence) |
 | [1829-maximum-xor-for-each-query](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1829-maximum-xor-for-each-query) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1630-arithmetic-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
