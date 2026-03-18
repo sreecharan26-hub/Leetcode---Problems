@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3110-score-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3110-score-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3194-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
