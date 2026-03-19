@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2396-strictly-palindromic-number) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1791-richest-customer-wealth](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1791-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2661-first-completely-painted-row-or-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2661-first-completely-painted-row-or-column) |
