@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2126-destroying-asteroids) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -659,11 +661,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1980-find-unique-binary-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
 | ------- |
