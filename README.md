@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0804-unique-morse-code-words](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0877-stone-game) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0992-subarrays-with-k-different-integers) |
