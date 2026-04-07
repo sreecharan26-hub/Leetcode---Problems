@@ -1,9 +1,10 @@
 class Solution {
 public:
     string toLowerCase(string s) {
-        for(auto &i : s){
-            i=tolower(i);
+        string ans = "";
+        for(auto i : s){
+            ans+=tolower(i);
         }
-        return s;
+        return ans;
     }
 };
