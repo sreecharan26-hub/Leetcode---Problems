@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1759-count-number-of-homogenous-substrings) |
