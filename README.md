@@ -831,4 +831,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
