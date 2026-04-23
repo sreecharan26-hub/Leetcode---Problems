@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
