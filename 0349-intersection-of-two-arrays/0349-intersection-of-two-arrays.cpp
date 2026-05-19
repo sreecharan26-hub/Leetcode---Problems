@@ -1,13 +1,17 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        set<int> s(nums1.begin(),nums1.end());
-        set<int> v;
-        for(auto i : nums2){
-            if(s.count(i)){
-                v.insert(i);
+        int n = nums1.size();
+        int m = nums2.size();
+        set<int>st;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(nums1[i]==nums2[j]){
+                    st.insert(nums1[i]);
+                }
             }
         }
-         return vector<int>(v.begin(),v.end());   
+        vector<int>ans (st.begin(),st.end());
+        return ans;
     }
 };
