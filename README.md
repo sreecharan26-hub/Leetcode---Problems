@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2974-minimum-number-game) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
 ## Stack
 |  |
 | ------- |
