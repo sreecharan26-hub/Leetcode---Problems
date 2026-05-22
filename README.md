@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3925-concatenate-array-with-reverse](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/4058-compute-alternating-sum) |
 ## String
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/4058-compute-alternating-sum) |
 ## Sorting
 |  |
