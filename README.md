@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
