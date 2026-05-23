@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3151-special-array-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3194-find-words-containing-character) |
 | [3379-transformed-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
