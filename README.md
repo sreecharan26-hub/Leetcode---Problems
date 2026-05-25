@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3637-trionic-array-i) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
