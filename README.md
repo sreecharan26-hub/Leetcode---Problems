@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3110-score-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3194-find-words-containing-character) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2833-furthest-point-from-origin) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Greedy
