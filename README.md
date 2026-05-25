@@ -882,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0226-invert-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1302-deepest-leaves-sum) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0226-invert-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1302-deepest-leaves-sum) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0226-invert-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1306-jump-game-iii) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0226-invert-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1302-deepest-leaves-sum) |
