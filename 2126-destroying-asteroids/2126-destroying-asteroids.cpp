@@ -3,12 +3,12 @@ public:
     bool asteroidsDestroyed(int mass, vector<int>& nums) {
         sort(nums.begin(),nums.end());
         int n = nums.size();
-        long long sum = mass;
+        long long a = mass;
         for(int i=0;i<n;i++){
-            if(nums[i]<=sum){
-                sum+=nums[i];
+            if(nums[i]<=a){
+                a+=nums[i];
             }
-            else {
+            else{
                 return false;
             }
         }
