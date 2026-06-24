@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
