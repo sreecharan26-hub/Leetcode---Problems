@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1630-arithmetic-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2206-divide-array-into-equal-pairs) |
