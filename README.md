@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1816-truncate-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
