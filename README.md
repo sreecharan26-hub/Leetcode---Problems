@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0078-subsets) |
+| [1079-letter-tile-possibilities](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1079-letter-tile-possibilities) |
 | [1980-find-unique-binary-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Linked List
