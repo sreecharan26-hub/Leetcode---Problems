@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2465-number-of-distinct-averages) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
