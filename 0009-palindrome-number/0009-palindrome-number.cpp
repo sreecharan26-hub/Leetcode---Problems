@@ -1,17 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0 or (x % 10 == 0 and x != 0)){
-            return false;
-        } 
-        int original = x;
-        long long reversed = 0;
-        
-        while (x > 0) {
-            reversed = reversed * 10 + x % 10;
-            x /= 10;
+        string s = to_string(x);
+        int n = s.size();
+        int i=0;
+        int j=n-1;
+
+        while(i<=j){
+            if(s[i]!=s[j]){
+                return false;
+            }
+            i++;
+            j--;
         }
-        return original == reversed;
-        
+        return true;
     }
 };
