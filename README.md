@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3895-count-digit-appearances](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/4058-compute-alternating-sum) |
 ## String
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3895-count-digit-appearances](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
 | ------- |
