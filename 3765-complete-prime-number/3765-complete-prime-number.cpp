@@ -14,11 +14,14 @@ public:
         }
         for(int i=0;i<v.size();i++){
             int b =stoi(v[i]);
-
+            
             if(b<2){
                 return false;
             }
-            for(int j=2;j*j<=b;j++){
+            if(b%2==0 and b!=2){
+                return false;
+            }
+            for(int j=2;j<b;j++){
                 if(b%j==0){
                     return false;
                 }
