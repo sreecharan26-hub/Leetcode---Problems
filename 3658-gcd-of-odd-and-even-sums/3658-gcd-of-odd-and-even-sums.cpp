@@ -11,6 +11,11 @@ public:
                 sum2+=i;
             }
         }
-        return gcd(sum1,sum2);
+        while(sum1!=0){
+            int rem = sum2%sum1;
+            sum2=sum1;
+            sum1=rem;
+        }
+        return sum2;
     }
 };
