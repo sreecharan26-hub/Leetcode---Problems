@@ -6,8 +6,12 @@ public:
         for(int i=0;i<n;i++){
             arr[i]=(2*i)+1;
         }
+        int s = 0;
+        for(auto i : arr){
+            s+=i;
+        }
         for(int i=0;i<n/2;i++){
-            sum+=n-arr[i];
+            sum+=(s/n)-arr[i];
         }
         return sum;
     }
