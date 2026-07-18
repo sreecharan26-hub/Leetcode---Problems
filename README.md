@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2364-count-number-of-bad-pairs) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
