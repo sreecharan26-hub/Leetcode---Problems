@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2460-apply-operations-to-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
