@@ -24,7 +24,7 @@ public:
         }
         ones-=2;
         int ans = ones;
-        for(int i=1;i+1<t.size();i++){
+        for(int i=1;i<t.size()-1;i++){
             if(t[i]==1 and t[i+1]==0 and t[i-1]==0){
                 ans= max(ans,ones+cnt[i-1]+cnt[i+1]);
             }
