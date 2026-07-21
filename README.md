@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3765-complete-prime-number) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
