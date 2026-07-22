@@ -4,13 +4,8 @@ public:
         string s = to_string(num);
         string a = "";
         sort(s.begin(),s.end());
-        a+=s[0];
-        a+=s[3];
-        a+=s[1];
-        a+=s[2];
-
-        int x = stoi(a.substr(0,2));
-        int y = stoi(a.substr(2,2));
+        int x = (s[0]-'0')*10 + (s[3]-'0');
+        int y = (s[1]-'0')*10 + (s[2]-'0');
 
         return x+y;
     }
