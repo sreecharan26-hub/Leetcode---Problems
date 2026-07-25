@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0804-unique-morse-code-words) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0821-shortest-distance-to-a-character](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0875-koko-eating-bananas) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1260-shift-2d-grid](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0680-valid-palindrome-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/0860-lemonade-change) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
