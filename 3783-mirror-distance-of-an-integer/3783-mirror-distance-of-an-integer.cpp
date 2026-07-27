@@ -1,9 +1,12 @@
 class Solution {
 public:
     int mirrorDistance(int n) {
-        string s = to_string (n);
-        reverse(s.begin(),s.end());
-        int c =stoi(s);
-        return abs(n-c);
+        int x = n;
+        int rev =0;
+        while(n>0){
+            rev = rev*10+(n%10);
+            n/=10;
+        }
+        return abs(x-rev);
     }
 };
