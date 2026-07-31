@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2833-furthest-point-from-origin) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3011-find-if-array-can-be-sorted) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -874,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
