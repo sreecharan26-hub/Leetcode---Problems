@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3011-find-if-array-can-be-sorted) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
