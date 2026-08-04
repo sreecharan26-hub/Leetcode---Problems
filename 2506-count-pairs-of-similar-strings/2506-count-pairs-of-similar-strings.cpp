@@ -1,18 +1,18 @@
 class Solution {
 public:
     int similarPairs(vector<string>& words) {
+        map<string,int>mp;
         int cnt = 0;
-        for(int i=0;i<words.size();i++){
-            set<char>st1(words[i].begin(),words[i].end());
-            for(int j=i+1;j<words.size();j++){
-                set<char>st2(words[j].begin(),words[j].end());
+        for(auto i : words){
+            set<char>st(i.begin(),i.end());
 
-                if(st1==st2){
-                    cnt++;
-                }
+            string s ="";
+            for(char c : st){
+                s+=c;
             }
+            cnt=cnt+mp[s];
+            mp[s]++;
         }
         return cnt;
-
     }
 };
