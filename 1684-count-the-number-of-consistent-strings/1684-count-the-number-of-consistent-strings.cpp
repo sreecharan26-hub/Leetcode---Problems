@@ -1,19 +1,20 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        set<char>st;
+        vector<char>v(26,0);
         for(auto i : allowed){
-            st.insert(i);
+            v[i-'a']++;
         }
         int cnt = 0;
         for(auto i : words){
-            int a = 0;
+            bool ok = true;
             for(auto j : i){
-                if(st.find(j)==st.end()){
-                    a++;
+                if(!v[j-'a']){
+                    ok = false;
+                    break;
                 }
             }
-            if(a==0){
+            if(ok == true){
                 cnt++;
             }
         }
