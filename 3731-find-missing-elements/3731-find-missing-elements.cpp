@@ -4,12 +4,13 @@ public:
         int n = nums.size();
         vector<int>v;
         sort(nums.begin(),nums.end());
-        for(int i=0;i<n-1;i++){
-            int a = nums[i];
-            while(a+1<nums[i+1]){
-                v.push_back(a+1);
-                a++;
+        for(int i=1;i<n;i++){
+            if(nums[i]-nums[i-1]>1){
+                for(int j = nums[i-1]+1;j<nums[i];j++){
+                    v.push_back(j);
+                }
             }
+            
         }
         return v;
     }
