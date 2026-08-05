@@ -7,7 +7,7 @@ public:
         int i = 0;
         int j = n-1;
         while(i<j){
-            float a = (nums[i]+nums[j])/2.0;
+            float a = (float)(nums[i]+nums[j])/2;
             v.push_back(a);
             i++;
             j--;
