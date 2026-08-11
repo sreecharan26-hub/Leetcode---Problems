@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
