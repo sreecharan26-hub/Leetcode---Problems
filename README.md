@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
