@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
