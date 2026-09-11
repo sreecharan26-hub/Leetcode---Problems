@@ -15,11 +15,11 @@ public:
                     if(k==i or k==j){
                         continue;
                     }
-                    if(nums[k]%2!=0){
-                        continue;
+                    if(nums[k]%2==0){
+                        int a = nums[i]*100+nums[j]*10+nums[k];
+                        s.insert(a);
                     }
-                    int ans = nums[i]*100+nums[j]*10+nums[k];
-                    s.insert(ans);
+                    
                 }
             }
         }
