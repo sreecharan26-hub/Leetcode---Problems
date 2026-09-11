@@ -4,7 +4,7 @@ public:
         set<int>s;
         int n = nums.size();
         for(int i=0;i<n;i++){
-            if(nums[i]== 0){
+            if(nums[i]==0){
                 continue;
             }
             for(int j=0;j<n;j++){
@@ -15,14 +15,14 @@ public:
                     if(k==i or k==j){
                         continue;
                     }
-                    if(nums[k]%2!=0){
-                        continue;
+                    if(nums[k]%2==0){
+                        int a = nums[i]*100+nums[j]*10+nums[k];
+                        s.insert(a);
                     }
-                    int ans = nums[i]*100+nums[j]*10+nums[k];
-                    s.insert(ans);
                 }
             }
         }
-        return vector<int>(s.begin(),s.end());
+        vector<int>ans(s.begin(),s.end());
+        return ans;
     }
 };
