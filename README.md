@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/sreecharan26-hub/Leetcode---Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
